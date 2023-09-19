@@ -42,20 +42,8 @@ const PriceOptions = () => {
                 "Progress tracking",
                 "Access to Premium Membership facilities during sessions"
             ]
-        },
-        {
-            "id": 4,
-            "name": "Group Classes",
-            "description": "Access to unlimited group fitness classes per month.",
-            "price": 19.99,
-            "duration": "per month",
-            "features": [
-                "Variety of fitness classes",
-                "Experienced instructors",
-                "Flexible class schedules",
-                "Social and motivational atmosphere"
-            ]
         }
+        
     ]
 
 

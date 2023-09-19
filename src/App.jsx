@@ -1,3 +1,4 @@
+import { LineChart } from 'recharts';
 
 import './App.css'
 import Navber from './componants/Navber/Navber'
@@ -17,6 +18,8 @@ function App() {
     
 <Navber></Navber>
 <PriceOptions></PriceOptions>
+<LineChart></LineChart>
+
 
     </>
   )
